@@ -26,8 +26,9 @@
 &nbsp;
 
 <h3> 🏆 My BOJ</h3>
+ 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bmy1320)](https://solved.ac/bmy1320/)
-&nbsp; 
+
 <h3> 📬 Contacts</h3>
 <p>
  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/bmy1320@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=fff"/></a>
