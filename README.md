@@ -1,7 +1,6 @@
  <p>👋 Hi! Welcome to My profile </p>
  <p> I'm a Senior student at Gachon University's Department of Computer Science and Engineering
  <p> I'm interested in Front-End development, So i'm studying html/css/Javascript </p>
- &nbsp;
  <hr></hr>
 <div align="center">
 &nbsp;
