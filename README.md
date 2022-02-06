@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20SooHyun-dev%20&%&height=200&fontSize=50&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20SooHyun-dev%20&%&height=180&fontSize=50&textBg=true)
+
+<p align="center">
+ <a href="https://bmy1320.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-1A1A1A?style=flat-square&logo=Storyblok&logoColor=fff"/></a>
+</p>
+
 
 <h3 align="center"> 💻 Tech Stack 📖</h3>
 
@@ -14,4 +19,4 @@
 <img src="https://img.shields.io/badge/FrontEnd-1572B6?style=flat-square&logoColor=white" />
 </p>
 
-<a href="https://bmy1320.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-1A1A1A?style=flat-square&logo=Storyblok&logoColor=fff"/></a>
+
