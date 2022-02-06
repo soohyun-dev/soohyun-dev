@@ -2,6 +2,8 @@
 
 <p align="center">
  <a href="https://bmy1320.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-1A1A1A?style=flat-square&logo=Storyblok&logoColor=fff"/></a>
+ <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=fff"/></a>
+ <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=fff"/>
 </p>
 
 
