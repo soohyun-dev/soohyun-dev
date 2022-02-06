@@ -2,7 +2,7 @@
  <p> I'm a Senior student at Gachon University's Department of Computer Science and Engineering
  <p> I'm interested in Front-End development, So i'm studying html/css/Javascript </p>
  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/bmy1320@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=fff"/></a>
- <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/Soohyun-0A66C2?style=flat-square&logo=LinkedIn&logoColor=fff"/>
+ <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/SOOHYUN%20YUN-0A66C2?style=flat-square&logo=LinkedIn&logoColor=fff"/>
 </p>
  <hr></hr>
 <div align="center">
