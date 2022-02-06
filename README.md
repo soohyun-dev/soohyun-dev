@@ -26,8 +26,7 @@
 &nbsp;
 
 <h3> 🏆 My BOJ</h3>
- 
- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bmy1320)](https://solved.ac/bmy1320)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bmy1320)](https://solved.ac/bmy1320/)
 &nbsp; 
 <h3> 📬 Contacts</h3>
 <p>
