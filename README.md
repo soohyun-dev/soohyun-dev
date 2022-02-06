@@ -22,3 +22,6 @@
 </p>
 
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=bmy1320)](https://solved.ac/bmy1320)
+
