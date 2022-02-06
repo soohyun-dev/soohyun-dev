@@ -8,7 +8,7 @@
 <div align="center">
 &nbsp;
 <h3>📒 My Cowork Tools</h3>
-<a href="https://bmy1320.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-fff?style=flat-square&logo=Storyblok&logoColor=000000"/></a>
+<a href="https://bmy1320.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/My%20Blog-fff?style=flat-square&logo=Storyblok&logoColor=000000"/></a>
 <a href="https://bubbly-carp-813.notion.site/6356af54b3564cdb966cf352d95b0b98?v=7490273213d34e57af658a27ce4934d7" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
 &nbsp;
 <h3> 👨‍💻 Tech Stack</h3>
