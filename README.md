@@ -8,6 +8,7 @@
  <p>🚩 인턴 합격해서 훌륭하신 분들과 협업해보기 </p>
  <p>🚩 기술 스텍에 2개이상의 기술 추가하기 (React, Vue, Node.js...)
  <p>🚩 알고리즘 공부 열심히해서 백준 플레티넘 문제들 스스로 풀어보기 </p>
+ <p>🚩 백준 500일 연속 solve 달성하기 </p>
   &nbsp;
  <p>Contacts📬 </p>
  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/bmy1320@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=fff"/></a>
