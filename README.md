@@ -4,11 +4,10 @@
  <p> React와 같은 프레임워크를 더 배워서 기술력을 높여가고 후에 백엔드도 같이 공부해보고 싶습니다.</p>
  &nbsp;
  <p><2022년 목표></p>
- <p>🚩 저만의 사이트 만들어서 배포하고 운영해보며 문제점들 해결해보기 </p>
+ <p>🚩 나만의 사이트 만들어서 배포하고 운영해보며 문제점들 해결해보기 </p>
  <p>🚩 인턴 합격해서 훌륭하신 분들에게 열심히 배워보기 </p>
  <p>🚩 기술 스텍에 2개이상의 기술 추가하기 (React, Vue, Node.js...)
  <p>🚩 알고리즘 공부 열심히해서 백준 플레티넘 문제들 스스로 풀어보기 </p>
- <p>🚩 영어공부해서 공인성적 취득하기 </p>
   &nbsp;
  <p>Contacts📬 </p>
  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/bmy1320@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=fff"/></a>
