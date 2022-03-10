@@ -1,14 +1,10 @@
  <p>👋 안녕하세요~! 윤수현입니다.</p>
- <p> 저는 가천대학교 컴퓨터공학과 4학년 학생입니다 </p>
+ <p> 저의 GitHub 페이지에 오신것을 환영합니다!</p>
+ <p> 저는 현재 가천대학교 컴퓨터공학과 4학년 학생입니다 </p>
  
  &nbsp;
- <p><2022년 목표></p>
- <p>🚩 나만의 사이트 만들어서 배포하고 운영해보며 문제점들 해결해보기 </p>
- <p>🚩 인턴과 동아리를 통해 많은 사람들과 협업해보기 </p>
- <p>🚩 기술 스텍에 2개이상의 기술 추가하기 (React, Vue, Node.js...)
- <p>🚩 알고리즘 공부 열심히해서 백준 플레티넘 문제들 스스로 풀어보기 </p>
- <p>🚩 백준 500일 연속 solve 달성하기 </p>
-  &nbsp;
+ <p>React에 관심이 많은 웹 프론트엔드 개발자 지망생입니다.</p>
+ &nbsp;&nbsp;
  <p>Contacts📬 </p>
  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/bmy1320@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=fff"/></a>
  <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/SOOHYUN%20YUN-0A66C2?style=flat-square&logo=LinkedIn&logoColor=fff"/>
