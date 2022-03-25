@@ -22,6 +22,7 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
 </p>
 <h3> 💻 Languages</h3>
 <p>
@@ -30,7 +31,6 @@
 <h3> I'm interested in ~ 😚</h3>
 <p>
  <img src="https://img.shields.io/badge/Front%20End-1572B6?style=flat-square&logoColor=white" />
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
  <img src="https://img.shields.io/badge/Algorithms-00BCB4?style=flat-square&logo=TheAlgorithms&logoColor=000000" />
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=000000" />
  <img src="https://img.shields.io/badge/Node.Js-339933?style=flat-square&logo=Node.js&logoColor=000000" />
