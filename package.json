@@ -12,6 +12,7 @@
     "@types/glob": "^8.1.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "dayjs": "^1.11.13",
     "glob": "^11.0.1",
     "gray-matter": "^4.0.3",
     "lucide-react": "^0.476.0",
@@ -19,6 +20,7 @@
     "next-mdx-remote": "^5.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "reading-time": "^1.5.0",
     "tailwind-merge": "^3.0.2",
     "tailwindcss-animate": "^1.0.7"
   },
